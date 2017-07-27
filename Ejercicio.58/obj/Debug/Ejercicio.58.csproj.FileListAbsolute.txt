@@ -1,0 +1,6 @@
+d:\users\kaiod\documents\visual studio 2012\Projects\Ejercicio.58\Ejercicio.58\bin\Debug\Ejercicio.58.exe.config
+d:\users\kaiod\documents\visual studio 2012\Projects\Ejercicio.58\Ejercicio.58\obj\Debug\Ejercicio.58.csprojResolveAssemblyReference.cache
+d:\users\kaiod\documents\visual studio 2012\Projects\Ejercicio.58\Ejercicio.58\bin\Debug\Ejercicio.58.exe
+d:\users\kaiod\documents\visual studio 2012\Projects\Ejercicio.58\Ejercicio.58\bin\Debug\Ejercicio.58.pdb
+d:\users\kaiod\documents\visual studio 2012\Projects\Ejercicio.58\Ejercicio.58\obj\Debug\Ejercicio.58.exe
+d:\users\kaiod\documents\visual studio 2012\Projects\Ejercicio.58\Ejercicio.58\obj\Debug\Ejercicio.58.pdb

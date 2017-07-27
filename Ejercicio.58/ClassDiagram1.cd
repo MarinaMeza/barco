@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Ejercicio._58.Barco">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAIADAQAACAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Barco.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio._58.Pasajero">
+    <Position X="7.25" Y="0.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAACAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Pasajero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio._58.Program">
+    <Position X="11.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio._58.Crucero">
+    <Position X="3.5" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Crucero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio._58.Transatlantico">
+    <Position X="3" Y="4" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAIACAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transatlantico.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Ejercicio._58.PasajerosOverFlowException">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAQAAAAAAAAAAAQACCAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>PasajerosOverFlowException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Ejercicio._58.IServicioComerdor">
+    <Position X="10.25" Y="3.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface1.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Ejercicio._58.Rango">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAABIAAEAAAAAAAAA=</HashCode>
+      <FileName>Rango.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
